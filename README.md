@@ -1,9 +1,9 @@
-# wine_classification_neural_network
+# Wine classification using neural network
 Determining wine class using Neural Network
 
 <br>
 
-The script imports wine dataset from sklearn library
+The script imports wine dataset from sklearn library <br>
 Script contains:
 1. Exploring dataset
 2. Creating a neural network model with 1 hidden layer
