@@ -3,8 +3,7 @@ Determining wine class using Neural Network
 
 <br>
 
-The script imports wine dataset from sklearn library <br>
-Script contains:
+The script imports wine dataset from sklearn library and contains:
 1. Exploring dataset
 2. Creating a neural network model with 1 hidden layer
 3. Testing behavior of the model with different paramters 
